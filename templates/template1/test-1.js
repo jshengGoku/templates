@@ -1,2 +1,3 @@
-console.log('this is test 1');
-
+const <%= name %> = () => {
+	console.log('this is test 2');
+}
